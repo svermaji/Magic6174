@@ -3,7 +3,7 @@
 *I create a java program for magic number 6174.*
 
 ## About 6174
-**In 1949, Indian mathematician, D. R. Kaprekar**, discovered an interesting property of the number 6174, which was subsequently named the Kaprekar constant.
+**In 1949, Indian Mathematician, D. R. Kaprekar**, discovered an interesting property of the number 6174, which was subsequently named the Kaprekar constant.
 He showed that 6174 is reached in the limit as one repeatedly subtracts the highest and lowest numbers that can be constructed from a set of four digits that are not all identical. Thus, starting with 1234, we have:
 
 4321 − 1234 = 3087, then<br>
