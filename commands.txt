@@ -1,0 +1,17 @@
+I used Windows 10, so providing details around it.
+
+Either use any java editor and compile & run the program.
+
+OR
+
+On Windown command prompt:
+ - Open cmd.exe
+ - Go to src folder 
+ - then 
+ 
+To Complie
+ - javac com/sv/Magic6174.java
+ 
+To Run
+ - java com.sv.Magic6174
+ 
