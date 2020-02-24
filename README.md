@@ -1,7 +1,8 @@
 # Magic number 6174
 
-I created simple java program for magic number 6174.
+*I create a java program for magic number 6174.*
 
+## About 6174
 **In 1949, Indian mathematician, D. R. Kaprekar**, discovered an interesting property of the number 6174, which was subsequently named the Kaprekar constant.
 He showed that 6174 is reached in the limit as one repeatedly subtracts the highest and lowest numbers that can be constructed from a set of four digits that are not all identical. Thus, starting with 1234, we have:
 
@@ -13,6 +14,7 @@ Further after reading more articles, I see that same can be achieved even
  - if number is having two distinct digits (no need of all 4 distinct digits)
  - if number includes two leading zeros
 
+## Sample Output
 I added few samples in program that will produce step by step solution.<br>
 Example<br>
 Processing number: 2323<br>
@@ -24,6 +26,7 @@ Processing number: 2323<br>
 
 And maintain a list of ignored numbers in case of validation fails.
 
+## Links
 For more reading below are links:
 * https://en.wikipedia.org/wiki/D._R._Kaprekar
 * https://en.wikipedia.org/wiki/6174_(number)
